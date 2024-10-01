@@ -3,7 +3,6 @@
   - Test Automation Architect
   - Cloud Test Engineer
   - Senior QA Analyst
-  - ETL/ML Engineer
 
 - *Expertise:*
   - Extensive experience in automation, Azure cloud technologies, and quality assurance
