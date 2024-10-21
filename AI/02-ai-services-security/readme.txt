@@ -1,0 +1,1 @@
+This folder contains Python code that securely  the secrete key in azure key vault to securely connect to the AI services
