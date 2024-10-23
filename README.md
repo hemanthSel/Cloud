@@ -1,12 +1,11 @@
  *Well-suited for roles including:*
-  - DevOps Engineer
-  - Test Automation Architect
-  - Cloud Test Engineer
-  - Senior QA Analyst
+  -Azure AI/ML Engineer
+  -AI/ML Ops
+
 
 - *Expertise:*
-  - Extensive experience in automation, Azure cloud technologies, and quality assurance
-  - Proficient in deploying and managing Azure web servers and resources
+  - Extensive experience in Azure AI/ML cloud technologies, and 
+  - Proficient in managing Azure AI services, models and resources
   - Transitioned from manual to automated deployments using Terraform
   
 - *Technical Skills:*
@@ -16,21 +15,13 @@
 
 - *Professional Experience:*
   - Over 10 years in IT with specialization in:
-    - Web, cloud-based manual and automated testing
-    - API testing
-    - ETL development and support engineering
-  
-- *Quality Assurance:*
-  - Primary QA contact facilitating communication between stakeholders and Business Analysts
-  - Designing and executing automated test scripts, including Data-Driven Testing
-  - Strong background in testing frameworks such as Selenium, Maven, and TestNG
-  
-- *Recent Development:*
-  - Completed a job coaching internship enhancing my capabilities
+    - Azure Cloud data engineering
+    - ETL development
+    - SQL 
 
 - *Commitment to Growth:*
-  - Mentoring junior QA professionals and adapting to new technologies
+  - Mentoring junior professionals and adapting to new technologies
 
 - *Let’s connect:*
-  - Explore opportunities to enhance quality assurance and software reliability together!
+  - Explore opportunities to enhance software reliability together!
   - View my work samples here 
